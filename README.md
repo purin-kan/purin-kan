@@ -1,5 +1,6 @@
 # About Me:
-I am currently learning Computer Engineering at Sirindhorn International Institute of Technology (SIIT).
+I'm currently learning Computer Engineering at Sirindhorn International Institute of Technology (SIIT).
+I'm interested in Data Analytics
 
 
 # Tech Stack:
